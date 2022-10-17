@@ -2,7 +2,7 @@
 
 ## what you'll need to know
 
-to be a part of team at xorasan, you need to at least a basic knowledge of all of these fields. you should know how much time & effort it takes
+to be a part of team at xorasan, you need to at least a basic knowledge of all of these fields. you should know how much time & effort it takes to create art using these skills, among other benefits, this will make communication easier between team members and manage expectations.
 
 ## skills we are interested in
 
