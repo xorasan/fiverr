@@ -11,12 +11,9 @@ to be a part of team at xorasan, you need to at least a basic knowledge of all o
 * 3D model
 
 ## team xorasan
-<a href=sooraat/hxorasani-1.jpg><img src=sooraat/hxorasani-1.jpg width=256 height=256></a>
+
   
-[@hxorasani](https://github.com/hxorasani)  
 
-[@biaxor](https://github.com/biaxor)  
-
-[@Hadeedixor](https://github.com/Hadeedixor)  
-
-
+| <a href=sooraat/hxorasani-1.jpg><img src=sooraat/hxorasani-1.jpg width=256 height=256></a> | <a href=sooraat/biaxor-1.jpg><img src=sooraat/biaxor-1.jpg width=256 height=256></a> | <a href=sooraat/Hadeedixor-1.jpg><img src=sooraat/Hadeedixor-1.jpg width=256 height=256></a> |
+| ------------- | ------------- | -- |
+| [@hxorasani](https://github.com/hxorasani) | [@biaxor](https://github.com/biaxor) | [@Hadeedixor](https://github.com/Hadeedixor) |
