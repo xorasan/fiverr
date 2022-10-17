@@ -13,10 +13,10 @@ to be a part of team at xorasan, you need to at least a basic knowledge of all o
 ## team xorasan
 <a href=sooraat/hxorasani-1.jpg><img src=sooraat/hxorasani-1.jpg width=256 height=256></a>
   
-@hxorasani  
+[@hxorasani](https://github.com/hxorasani)  
 
-@biaxor  
+[@biaxor](https://github.com/biaxor)  
 
-@Hadeedixor  
+[@Hadeedixor](https://github.com/Hadeedixor)  
 
 
