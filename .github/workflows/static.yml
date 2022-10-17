@@ -30,6 +30,11 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v3
+      - name: Converts Markdown to HTML
+        uses: jaywcjlove/markdown-to-html-cli@main
+        with:
+          source: README.md
+          output: index.html
       - name: Setup Pages
         uses: actions/configure-pages@v2
       - name: Upload artifact
@@ -37,8 +42,6 @@ jobs:
         with:
           # Upload entire repository
           path: '.'
-      - name: Converts Markdown to HTML
-        uses: jaywcjlove/markdown-to-html-cli@main
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v1
