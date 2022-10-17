@@ -12,7 +12,7 @@ to be a part of team at xorasan, you need to at least a basic knowledge of all o
 
 ## team xorasan
 @hxorasani
-![](sooraat/hxorasani-1.png | width=100)
+![](sooraat/hxorasani-1.png)
 
 
 
