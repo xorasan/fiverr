@@ -28,6 +28,8 @@ jobs:
       url: ${{ steps.deployment.outputs.page_url }}
     runs-on: ubuntu-latest
     steps:
+      - name: Converts Markdown to HTML
+        uses: jaywcjlove/markdown-to-html-cli@main
       - name: Checkout
         uses: actions/checkout@v3
       - name: Setup Pages
