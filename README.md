@@ -11,7 +11,8 @@ to be a part of team at xorasan, you need to at least a basic knowledge of all o
 * 3D model
 
 ## team xorasan
-<img src=sooraat/hxorasani-1.png width=256 height=256>  
+<a href=sooraat/hxorasani-1.jpg><img src=sooraat/hxorasani-1.jpg width=256 height=256></a>
+  
 @hxorasani  
 
 @biaxor  
